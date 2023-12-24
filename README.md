@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ngozz&color=red">
+<!--   <img src="https://shields.io/github/stars/ngozz">
+  <img src="https://img.shields.io/github/followers/ngozz"> -->
+</p>
 
-<!--
-**ngozz/ngozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Github Status
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngozz&layout=compact&theme=tokyonight&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngozz&show_icons=true&theme=tokyonight" height="165">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌐️ Reach me at
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngozz)
