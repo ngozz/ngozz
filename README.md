@@ -15,3 +15,4 @@
 ### 🌐️ Reach me at
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngozz)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ngozz.github.io/Portfolio/)
